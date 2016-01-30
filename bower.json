@@ -1,5 +1,5 @@
 {
-  "name": "angular-kickstart",
+  "name": "Procurement System",
   "dependencies": {
     "normalize-css": "~3.0.3",
     "angular": "~1.4.5",
